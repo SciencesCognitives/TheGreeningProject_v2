@@ -9,14 +9,20 @@
     <sprite>sprites\Personnage_sprite</sprite>
     <sprite>sprites\Banquise_sprite</sprite>
     <sprite>sprites\mer_invisible</sprite>
+    <sprite>sprites\sprite3</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Banquise_objet</object>
     <object>objects\Personnage_objet</object>
     <object>objects\Objet_invisible_mer</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
