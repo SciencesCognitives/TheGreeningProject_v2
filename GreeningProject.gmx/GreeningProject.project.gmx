@@ -20,6 +20,7 @@
     <object>objects\Personnage_objet</object>
     <object>objects\Objet_invisible_mer</object>
     <object>objects\Ennemi_objet</object>
+    <object>objects\objet_temps</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
