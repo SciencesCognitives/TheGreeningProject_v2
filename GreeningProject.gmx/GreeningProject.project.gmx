@@ -9,6 +9,10 @@
     <sprite>sprites\Personnage_sprite</sprite>
     <sprite>sprites\Banquise_sprite</sprite>
     <sprite>sprites\mer_invisible</sprite>
+<<<<<<< HEAD
+=======
+    <sprite>sprites\Ennemi_sprite</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
@@ -18,6 +22,8 @@
     <object>objects\Banquise_objet</object>
     <object>objects\Personnage_objet</object>
     <object>objects\Objet_invisible_mer</object>
+    <object>objects\Ennemi_objet</object>
+    <object>objects\objet_temps</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
