@@ -9,6 +9,8 @@
     <sprite>sprites\Personnage_sprite</sprite>
     <sprite>sprites\Banquise_sprite</sprite>
     <sprite>sprites\mer_invisible</sprite>
+    <sprite>sprites\invisible_room</sprite>
+    <sprite>sprites\sprite_limite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
@@ -20,9 +22,12 @@
     <object>objects\Objet_invisible_mer</object>
     <object>objects\Ennemi_objet</object>
     <object>objects\objet_temps</object>
+    <object>objects\changement_room</object>
+    <object>objects\limites_room</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
