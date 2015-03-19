@@ -17,13 +17,19 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\Banquise_objet</object>
-    <object>objects\Personnage_objet</object>
-    <object>objects\Objet_invisible_mer</object>
-    <object>objects\Ennemi_objet</object>
     <object>objects\objet_temps</object>
     <object>objects\changement_room</object>
     <object>objects\limites_room</object>
+    <objects name="avatar">
+      <object>objects\Personnage_objet</object>
+    </objects>
+    <objects name="décor">
+      <object>objects\Banquise_objet</object>
+      <object>objects\Objet_invisible_mer</object>
+    </objects>
+    <objects name="ennemis">
+      <object>objects\Ennemi_objet</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
