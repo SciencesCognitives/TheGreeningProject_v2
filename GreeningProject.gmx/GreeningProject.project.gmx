@@ -11,11 +11,14 @@
     <sprite>sprites\mer_invisible</sprite>
     <sprite>sprites\invisible_room</sprite>
     <sprite>sprites\sprite_limite</sprite>
+    <sprite>sprites\ennemi_test</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
   <objects name="objects">
     <object>objects\objet_temps</object>
     <object>objects\changement_room</object>
