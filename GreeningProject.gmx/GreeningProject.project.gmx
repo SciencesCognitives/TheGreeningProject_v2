@@ -9,10 +9,6 @@
     <sprite>sprites\Personnage_sprite</sprite>
     <sprite>sprites\Banquise_sprite</sprite>
     <sprite>sprites\mer_invisible</sprite>
-<<<<<<< HEAD
-=======
-    <sprite>sprites\Ennemi_sprite</sprite>
->>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
