@@ -9,7 +9,6 @@
     <sprite>sprites\Personnage_sprite</sprite>
     <sprite>sprites\Banquise_sprite</sprite>
     <sprite>sprites\mer_invisible</sprite>
-    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
