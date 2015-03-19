@@ -11,7 +11,7 @@
     <sprite>sprites\mer_invisible</sprite>
     <sprite>sprites\invisible_room</sprite>
     <sprite>sprites\sprite_limite</sprite>
-    <sprite>sprites\ennemi_test</sprite>
+    <sprite>sprites\canette</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>

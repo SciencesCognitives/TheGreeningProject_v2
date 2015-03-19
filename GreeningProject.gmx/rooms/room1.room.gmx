@@ -178,7 +178,7 @@
     <instance objName="limites_room" x="0" y="64" name="inst_8D832C7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="limites_room" x="0" y="32" name="inst_785B7308" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="limites_room" x="0" y="0" name="inst_86761E2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Ennemi_objet" x="256" y="544" name="inst_125637E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ennemi_objet" x="224" y="448" name="inst_295E26F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
