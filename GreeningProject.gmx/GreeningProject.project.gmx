@@ -12,6 +12,7 @@
     <sprite>sprites\invisible_room</sprite>
     <sprite>sprites\sprite_limite</sprite>
     <sprite>sprites\canette</sprite>
+    <sprite>sprites\bonus_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
@@ -33,6 +34,8 @@
     <objects name="ennemis">
       <object>objects\Ennemi_objet</object>
     </objects>
+    <object>objects\bonus_objet</object>
+    <object>objects\score_objet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
