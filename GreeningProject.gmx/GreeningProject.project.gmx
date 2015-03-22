@@ -36,6 +36,7 @@
     </objects>
     <object>objects\bonus_objet</object>
     <object>objects\score_objet</object>
+    <object>objects\objet_temps_essai</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
