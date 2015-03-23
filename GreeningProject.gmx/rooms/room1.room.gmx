@@ -193,6 +193,8 @@
     <instance objName="Ennemi_objet" x="288" y="544" name="inst_CD9924E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="trigger_stalactite" x="544" y="544" name="inst_EF7ABB1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="stalactite" x="672" y="64" name="inst_5AFE3761" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="super_bonus_objet" x="672" y="480" name="inst_88ED7285" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="super_bonus_objet" x="864" y="576" name="inst_6D844A89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

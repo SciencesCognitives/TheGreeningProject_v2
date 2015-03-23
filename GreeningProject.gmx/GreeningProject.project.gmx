@@ -15,6 +15,7 @@
     <sprite>sprites\bonus_sprite</sprite>
     <sprite>sprites\sprite8</sprite>
     <sprite>sprites\sprite9</sprite>
+    <sprite>sprites\super_bonus_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
@@ -44,6 +45,7 @@
       <object>objects\limites_room</object>
       <object>objects\score_objet</object>
     </objects>
+    <object>objects\super_bonus_objet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
