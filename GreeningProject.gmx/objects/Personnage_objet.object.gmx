@@ -339,7 +339,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>6</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -393,7 +393,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-5</string>
+            <string>-6</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -442,7 +442,7 @@
         <functionname>action_set_vspeed</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
-        <relative>0</relative>
+        <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
