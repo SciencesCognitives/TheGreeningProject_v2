@@ -447,7 +447,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-7</string>
+            <string>-10</string>
           </argument>
         </arguments>
       </action>
@@ -493,7 +493,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>7</string>
           </argument>
         </arguments>
       </action>
