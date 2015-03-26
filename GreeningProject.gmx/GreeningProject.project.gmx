@@ -39,6 +39,8 @@
     </objects>
     <objects name="invisible">
       <object>objects\changement_room</object>
+      <object>objects\objet_temps</object>
+      <object>objects\affiche_temps</object>
       <object>objects\limites_room</object>
       <object>objects\score_objet</object>
       <object>objects\objet_temps</object>
@@ -48,6 +50,12 @@
       <object>objects\bonus_objet</object>
       <object>objects\super_bonus_objet</object>
     </objects>
+
+    <objects name="Bonus">
+      <object>objects\bonus_objet</object>
+      <object>objects\super_bonus_objet</object>
+    </objects>
+
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
