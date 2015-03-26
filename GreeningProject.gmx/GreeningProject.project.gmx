@@ -37,15 +37,17 @@
     <objects name="ennemis">
       <object>objects\Ennemi_objet</object>
     </objects>
-    <object>objects\bonus_objet</object>
-    <object>objects\objet_temps_essai</object>
     <objects name="invisible">
-      <object>objects\objet_temps</object>
       <object>objects\changement_room</object>
       <object>objects\limites_room</object>
       <object>objects\score_objet</object>
+      <object>objects\objet_temps</object>
+      <object>objects\affiche_temps</object>
     </objects>
-    <object>objects\super_bonus_objet</object>
+    <objects name="Bonus">
+      <object>objects\bonus_objet</object>
+      <object>objects\super_bonus_objet</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>

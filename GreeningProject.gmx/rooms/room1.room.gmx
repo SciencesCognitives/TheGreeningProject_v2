@@ -58,7 +58,6 @@
     <instance objName="Banquise_objet" x="672" y="608" name="inst_C9C2DD98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Banquise_objet" x="832" y="608" name="inst_6C16FD33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Personnage_objet" x="64" y="480" name="inst_F7B22669" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objet_temps" x="0" y="320" name="inst_02A1CFBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objet_invisible_mer" x="32" y="704" name="inst_AA13B8F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objet_invisible_mer" x="0" y="704" name="inst_4DE5765B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objet_invisible_mer" x="96" y="704" name="inst_82B2611D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -178,7 +177,7 @@
     <instance objName="limites_room" x="0" y="64" name="inst_8D832C7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="limites_room" x="0" y="32" name="inst_785B7308" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="limites_room" x="0" y="0" name="inst_86761E2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objet_temps_essai" x="32" y="32" name="inst_DDFEA4AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="super_bonus_objet" x="864" y="576" name="inst_6D844A89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bonus_objet" x="224" y="512" name="inst_9600E69D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bonus_objet" x="288" y="480" name="inst_81801919" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bonus_objet" x="352" y="448" name="inst_BF1059A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -194,7 +193,8 @@
     <instance objName="trigger_stalactite" x="544" y="544" name="inst_EF7ABB1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="stalactite" x="672" y="64" name="inst_5AFE3761" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="super_bonus_objet" x="672" y="480" name="inst_88ED7285" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="super_bonus_objet" x="864" y="576" name="inst_6D844A89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objet_temps" x="32" y="64" name="inst_DBF0DCF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="affiche_temps" x="32" y="32" name="inst_9ECDF1A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
