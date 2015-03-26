@@ -193,6 +193,7 @@
     <instance objName="trigger_stalactite" x="544" y="544" name="inst_EF7ABB1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="stalactite" x="672" y="64" name="inst_5AFE3761" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="super_bonus_objet" x="672" y="480" name="inst_88ED7285" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+
     <instance objName="super_bonus_objet" x="864" y="576" name="inst_6D844A89" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="Personnage_objet" x="0" y="0" name="" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="Personnage_objet" x="0" y="0" name="" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
@@ -206,6 +207,28 @@
     <instance objName="Personnage_objet" x="0" y="0" name="" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="Personnage_objet" x="0" y="0" name="" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="Personnage_objet" x="0" y="0" name="" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
+
+
+    <instance objName="objet_temps" x="32" y="64" name="inst_DBF0DCF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="affiche_temps" x="32" y="32" name="inst_9ECDF1A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+
+
+    <instance objName="super_bonus_objet" x="864" y="576" name="inst_6D844A89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="256" y="640" name="inst_72E7B087" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="320" y="640" name="inst_E4BE3F58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="384" y="640" name="inst_BB37FB9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="512" y="640" name="inst_6D4B67A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="448" y="640" name="inst_D6BB21FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="96" y="640" name="inst_821942F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="672" y="640" name="inst_9F670406" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="832" y="640" name="inst_9F043BD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="896" y="640" name="inst_8D7548A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="960" y="640" name="inst_4B38DC2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+
+    <instance objName="objet_temps" x="32" y="64" name="inst_384ADC99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="affiche_temps" x="32" y="32" name="inst_911D3000" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+
+
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
