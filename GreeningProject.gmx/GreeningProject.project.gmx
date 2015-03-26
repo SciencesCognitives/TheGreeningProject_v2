@@ -16,6 +16,7 @@
     <sprite>sprites\sprite8</sprite>
     <sprite>sprites\sprite9</sprite>
     <sprite>sprites\super_bonus_sprite</sprite>
+    <sprite>sprites\Personnage_attack</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background</background>
