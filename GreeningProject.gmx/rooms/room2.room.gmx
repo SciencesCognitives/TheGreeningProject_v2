@@ -107,6 +107,17 @@
     <instance objName="objet_temps" x="32" y="32" name="inst_2B203C73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objet_temps_essai" x="32" y="32" name="inst_FBDF3EBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="super_bonus_objet" x="608" y="416" name="inst_68E52AC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="0" y="672" name="inst_E8292E82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="96" y="672" name="inst_9B0F2792" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="160" y="672" name="inst_E891F587" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="64" y="672" name="inst_C4E6E95F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="192" y="672" name="inst_97CC909A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="352" y="640" name="inst_1AF528AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="416" y="640" name="inst_C9301D81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="352" y="704" name="inst_9AA46E5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="416" y="704" name="inst_FF1D0268" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="800" y="672" name="inst_230A3CCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Banquise_objet" x="864" y="672" name="inst_52513F75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
